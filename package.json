@@ -1,0 +1,22 @@
+{
+  "name": "aula-8-pdm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts":  {
+    "dev": "node --watch app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dorazzi69/aula-8-pdm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/dorazzi69/aula-8-pdm/issues"
+  },
+  "homepage": "https://github.com/dorazzi69/aula-8-pdm#readme"
+}
